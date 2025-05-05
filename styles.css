@@ -132,7 +132,7 @@ td {
   line-height: 150%;
 }
 
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
   .recipe {
     max-width: 100%;
     margin: 0;
@@ -158,7 +158,7 @@ td {
   .recipe {
     max-width: 60%;
   }
-} */
+}
 
 .attribution {
   font-size: 11px;
