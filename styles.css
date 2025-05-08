@@ -63,10 +63,11 @@ body {
   border-radius: 10px;
 }
 
-.prep-sctn h3 {
+.prep-sctn h2 {
   color: var(--heading1);
   margin: 0;
   font-weight: 700;
+  font-size: 1.2em;
 }
 
 .prep-time,
@@ -88,9 +89,9 @@ body {
   font-size: 0.75em;
 }
 
-.ingredients-sctn h3,
-.instructions-sctn h3,
-.nutrition-sctn h3 {
+.ingredients-sctn h2,
+.instructions-sctn h2,
+.nutrition-sctn h2 {
   font-family: "Young Serif";
   margin-bottom: 0;
   font-size: 1.5em;
