@@ -83,4 +83,4 @@ I hope to write cleaner code in the future.
 ## Author
 
 - LinkedIn - [Jessica Nwoye](https://www.linkedin.com/in/jessica-nwoye-45330b311/)
-- Frontend Mentor - [@JesNeWD](https://www.frontendmentor.io/profile/JesNetWD)
+- Frontend Mentor - [@JesNetWD](https://www.frontendmentor.io/profile/JesNetWD)
