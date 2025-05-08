@@ -1,5 +1,6 @@
 :root {
-  --background-color: hsl(330, 100%, 98%);
+  --prep-background-color: hsl(330, 100%, 98%);
+  --background-color: hsl(30, 54%, 90%);
   --recipe-background-color: hsl(0, 0%, 100%);
   --title-color: hsl(24, 5%, 18%);
   --color: hsl(30, 10%, 34%);
@@ -30,13 +31,18 @@ body {
   font-family: Outfit;
   font-size: 16px;
   font-weight: 400;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .recipe {
   max-width: 50%;
-  margin: 2.75em auto;
+  margin: 4em 0;
   background-color: var(--recipe-background-color);
-  padding: 1.25em;
+  padding: 2em;
   border-radius: 10px;
 }
 
@@ -52,7 +58,7 @@ body {
 }
 
 .prep-sctn {
-  background-color: var(--background-color);
+  background-color: var(--prep-background-color);
   padding: 1em;
   border-radius: 10px;
 }
