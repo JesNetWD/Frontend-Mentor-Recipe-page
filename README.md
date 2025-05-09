@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/resposive-recipe-page-using-media-queries-wSpMH5320R)
 - Live Site URL: [Live site URL](https://jesnetwd.github.io/Frontend-Mentor-Recipe-page/)
 
 ## My process
@@ -31,6 +31,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS flexbox
+- CSS media queries
 
 ### What I learned
 
